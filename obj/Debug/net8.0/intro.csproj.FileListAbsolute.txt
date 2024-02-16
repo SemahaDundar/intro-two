@@ -12,3 +12,4 @@ C:\Users\Pc\source\repos\intro\intro\obj\Debug\net8.0\refint\intro.dll
 C:\Users\Pc\source\repos\intro\intro\obj\Debug\net8.0\intro.pdb
 C:\Users\Pc\source\repos\intro\intro\obj\Debug\net8.0\intro.genruntimeconfig.cache
 C:\Users\Pc\source\repos\intro\intro\obj\Debug\net8.0\ref\intro.dll
+C:\Users\Pc\source\repos\intro\intro\obj\Debug\net8.0\intro.sourcelink.json
